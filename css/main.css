@@ -2,12 +2,22 @@ html{
    scroll-behavior: smooth;
        
 }
-
+h1{
+  text-align:center;
+  font-size:30px;
+  text-decoration:wavy blue;
+}
+p{
+  text-align:justify;
+  font-size:30px;
+  text-decoration:wavy blue;
+}
 body {
    background-color:#2C3E4C;
  background-size: cover;
    padding: 0px;
    margin:0px;
+   text-align: center;
    text-decoration: none;
    border-bottom: none;
 }
@@ -46,6 +56,42 @@ p{
   background-repeat: no-repeat;
   background-size: cover;
 
+}
+.conten{
+   font-family:'',sans-serif;
+  min-height: 200px;
+  text-align: center;
+  color:white;
+  padding-top: 10px;
+  background-color: #8888
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.conti{
+   font-family:'levitica',sans-serif;
+  min-height: 200px;
+  text-align: center;
+  color:white;
+  padding-bottom: 10px;
+  padding-top: 50px;
+  background-color: #8888
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+}
+
+.contene{
+     font-family:'',sans-serif;
+  min-height: 200px;
+  text-align: center;
+  color:white;
+  padding-top: 10px;
+  background-color: #8888
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 }
 img{
   display:inline-block;
@@ -196,4 +242,17 @@ color:white;
     background-color: #02b8dd;
     color: darkblue;
 }
+.containe {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: gray;
+  size: 20px;
+}
+
 
